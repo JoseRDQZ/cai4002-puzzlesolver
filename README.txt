@@ -3,7 +3,7 @@
 ====================================================
 Course: CAL 4002
 Assignment: HW1
-Authors: Jose Rodriguez and Alex Gomez
+Author: Jose Rodriguez
 Date: September 2025
 
 ----------------------------------------------------
